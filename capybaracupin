@@ -1,0 +1,6 @@
+Config = {
+    namescript = "capybarachupin",--Tên Script
+    logoscript = 80922711841023
+    tacgia = "bochupin_reviu"-- Tên Tác Giả
+}
+loadstring(game:HttpGet("https://raw.githubusercontent.com/tngaming123/vesion/refs/heads/main/scriptbffree.lua"))()
